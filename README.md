@@ -5,9 +5,9 @@ PHP Source for Ticketing with User Specifications as well as a section of the en
 
 Used:
 
--php function 
--session 
--cookie for login form 
--image uploader for attach file in tickets 
--login form and auth 
+-php function <br>
+-session <br>
+-cookie for login form <br>
+-image uploader for attach file in tickets <br>
+-login form and auth <br>
 
