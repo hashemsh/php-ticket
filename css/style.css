@@ -1,0 +1,26 @@
+/*
+ * Copyright (c) 2019. this code by heart from hashem sheikhypour
+ * Do your Best ...
+ */
+
+body{
+    direction: rtl;
+    font-family: IRANSans;
+}
+
+.container .row{
+    margin-top: 52px;
+}
+
+.form-group label{
+    float: right;
+}
+
+.form-group input[type=file]{
+    direction: ltr;
+}
+
+.text-center button{
+    width: 200px;
+}
+
